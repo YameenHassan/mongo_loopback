@@ -1,0 +1,13 @@
+{ 
+   "cloudant":{
+       "apikey": "i_NsJKAoC1pAxiaVopu8nPqFQA0vUN2MRiuZbt4nnLra",
+       "database":"loan",
+	   "name": "cloudant",
+	   "host": "71c6a9e2-9cbf-4ee3-a355-0a2d6b4f6794-bluemix.cloudantnosqldb.appdomain.cloud",
+	   "password": "a04db1a12d1d15863f5fccf35f557fabd396a828b074d46c1bd9b1a8d42f2e42",
+       "port": 443,
+       "url": "https://71c6a9e2-9cbf-4ee3-a355-0a2d6b4f6794-bluemix:a04db1a12d1d15863f5fccf35f557fabd396a828b074d46c1bd9b1a8d42f2e42@71c6a9e2-9cbf-4ee3-a355-0a2d6b4f6794-bluemix.cloudantnosqldb.appdomain.cloud",
+       "username": "71c6a9e2-9cbf-4ee3-a355-0a2d6b4f6794-bluemix",
+	   "connector": "cloudant"
+   }
+}
